@@ -48,4 +48,3 @@ The final dashboard features dynamic slicers that allow stakeholders to stress-t
 4. Open **Power Query Editor** to see the "Applied Steps" for the data cleaning logic.
 
 ---
-**About the Author:** I am a first-year undergraduate at the **International School of Economics (ISET)**. This project bridges the gap between economic theory and practical data engineering.
